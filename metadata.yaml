@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36992
     wikipedia: http://pt.wikipedia.org/wiki/Joaquim_Pedro_de_Oliveira_Martins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34387#Historia-de-Portugal--Tomo-I
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2010-11-21'
 gutenberg_type: Text
