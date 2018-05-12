@@ -1,0 +1,32 @@
+_repo: Historia-de-Portugal--Tomo-I_34387
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oliveira Martins, J. P. (Joaquim Pedro)
+    aliases:
+    - Martins, Oliveira
+    - Martins, Joaquim Pedro de Oliveira
+    - Martins, J. P. Oliveira
+    birthdate: 1845
+    deathdate: 1894
+    gutenberg_agent_id: '36992'
+    url: http://www.gutenberg.org/2009/agents/36992
+    wikipedia: http://pt.wikipedia.org/wiki/Joaquim_Pedro_de_Oliveira_Martins
+description: ''
+gutenberg_bookshelf: PT História
+gutenberg_issued: '2010-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34387'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Portugal -- History'
+title: 'Historia de Portugal: Tomo I'
+url: http://www.gutenberg.org/ebooks/34387
